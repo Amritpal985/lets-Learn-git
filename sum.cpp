@@ -6,6 +6,6 @@ int main(){
     int b = 90;
     int sum = a+b;
     cout<<"sum is :"<<sum<<endl;
-
+    cout<<" diff is :"<<abs(a-b)<<endl;
 return 0;
 }
